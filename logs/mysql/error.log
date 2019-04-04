@@ -61,3 +61,5 @@ Version: '5.7.23'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Comm
 2019-04-03T03:12:14.219927Z 6 [Warning] 'tables_priv' entry 'user mysql.session@localhost' ignored in --skip-name-resolve mode.
 2019-04-03T03:12:14.219933Z 6 [Warning] 'tables_priv' entry 'sys_config mysql.sys@localhost' ignored in --skip-name-resolve mode.
 2019-04-03T07:16:25.613296Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 7829287ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-04-04T00:04:14.088274Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 46247893ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-04-04T03:57:17.893207Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 2223684ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
